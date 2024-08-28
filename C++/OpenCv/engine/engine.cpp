@@ -5,6 +5,13 @@
 using namespace std;
 using namespace cv;
 
+/*
+    @author : OfficiallyEra
+    Date : 28th of August 2024
+    update : 0 time(s)
+    FileId : cpp.engine.01
+*/
+
 int start::engineEdgeDetect(Mat frame) 
 {
     Mat gray, blur, thresh;
