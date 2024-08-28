@@ -108,7 +108,7 @@ void load::handDetect(std::string title)
 		start::engineDetectHand(frame);
 
 		// Show the frame with the hand detection
-		imshow("Hand Detection", frame);
+		imshow("Edge Detection", frame);
 
 		if (waitKey(30) >= 0) break;
 	}
