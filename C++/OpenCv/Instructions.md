@@ -1,6 +1,6 @@
 # - User Instructions -
 - 🌱 Download the executable file from the repository's release Section
-- ❇️ After you have downloaded the zip file extract it anywhere into your computer/LocalSystem and run it normally by double clicking it!
+- ❇️ After you have downloaded the file run it normally by double clicking it!
 
 # #Features & Usage
 
