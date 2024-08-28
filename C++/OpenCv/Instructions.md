@@ -1,5 +1,5 @@
 # - User Instructions -
-- 🌱 [Download](https://downgit.evecalm.com/#/home?url=https://github.com/OfficiallyEra/ExternalProjects/blob/main/C%2B%2B/OpenCv/bin/handSense.exe) the executable's zip file from the repository
+- 🌱 Download the executable file from the repository's release Section
 - ❇️ After you have downloaded the zip file extract it anywhere into your computer/LocalSystem and run it normally by double clicking it!
 
 # #Features & Usage
